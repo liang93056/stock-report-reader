@@ -6,12 +6,11 @@
 
 ## 环境依赖
 Python >= 3.10
-pypdf
+PyPDF
 pandas
-（在这里补充你项目用到的其他库）
 
 ## 部署与运行方式
-1. 解压源码包
+1. 解压 stock-report-reader.zip
 2. 安装依赖
 ```bash
 pip install -r requirements.txt
